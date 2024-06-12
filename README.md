@@ -2,7 +2,7 @@
 ```js
 const 3waija = {
    name : "Salma",
-   Age : "25",
+   Age : "22",
    location : "AE/Dubai",
    MySkills : {
       Librarys : ["Tailwind ", "Savelt", "React"],
