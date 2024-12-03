@@ -13,10 +13,6 @@ const 3waija = {
 console.log(3waija)
 ```
 
-### Discord Profile ✨
-
-![Discord](https://discord.c99.nl/widget/theme-1/548575592719843329.png)
-
 <br>
 <p align="left">
 
