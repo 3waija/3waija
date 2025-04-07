@@ -1,13 +1,17 @@
 ![3waija's github stats](https://github-readme-stats.vercel.app/api?username=3waija&show_icons=true&theme=dark)
 ```js
 const 3waija = {
-   name : "Salma",
-   Age : "22",
-   location : "AE/Dubai",
-   MySkills : {
-      Librarys : ["Tailwind ", "Savelt", "React"],
-  };
-  Languages : ["HTML" , "CSS" , "JavaScript", "React", "Next.js", "Node.js", "MySQL", "ORM.drizzle", "Expressjs" ]
+   name: "Salma",
+  age: 22,
+  location: "AE/Dubai",
+  mySkills: {
+    libraries: [
+      "Tailwind", "Savelt", "React", "Next.js", "Express.js", "ORM Drizzle"
+    ],
+    languages: [
+      "HTML", "CSS", "JavaScript", "MySQL"
+    ]
+  }
 };
 
 console.log(3waija)
