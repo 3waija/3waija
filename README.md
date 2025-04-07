@@ -7,7 +7,7 @@ const 3waija = {
    MySkills : {
       Librarys : ["Tailwind ", "Savelt", "React"],
   };
-  Languages : ["HTML" , "CSS" , "JavaScript",]
+  Languages : ["HTML" , "CSS" , "JavaScript", "React", "Next.js", "Node.js", "MySQL", "ORM.drizzle", "Expressjs" ]
 };
 
 console.log(3waija)
@@ -18,4 +18,4 @@ console.log(3waija)
 
 <a href="https://twitter.com/its3waija" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="its3waija" height="40" width="40" /></a> 
 <a href="https://instagram.com/3waija" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="3waija" height="40" width="40" /></a> 
-<a href="https://twitch.tv/its3waija" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="its3waija" height="40" width="40" /></a> 
+<a href="https://twitch.tv/3waija" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="its3waija" height="40" width="40" /></a> 
